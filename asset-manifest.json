@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/flowolf.org/static/css/main.5c07d8a0.css",
-    "main.js": "/flowolf.org/static/js/main.c13d7b6b.js",
-    "static/js/787.28cb0dcd.chunk.js": "/flowolf.org/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/flowolf.org/index.html",
-    "main.5c07d8a0.css.map": "/flowolf.org/static/css/main.5c07d8a0.css.map",
-    "main.c13d7b6b.js.map": "/flowolf.org/static/js/main.c13d7b6b.js.map",
-    "787.28cb0dcd.chunk.js.map": "/flowolf.org/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/static/css/main.5c07d8a0.css",
+    "main.js": "/static/js/main.51133365.js",
+    "static/js/787.28cb0dcd.chunk.js": "/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/index.html",
+    "main.5c07d8a0.css.map": "/static/css/main.5c07d8a0.css.map",
+    "main.51133365.js.map": "/static/js/main.51133365.js.map",
+    "787.28cb0dcd.chunk.js.map": "/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c07d8a0.css",
-    "static/js/main.c13d7b6b.js"
+    "static/js/main.51133365.js"
   ]
 }
